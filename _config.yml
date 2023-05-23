@@ -9,3 +9,8 @@ aux_links:
   Vigo IKS: https://www.vigoiks.no
 
 heading_anchors: true
+
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+color_scheme: dark
