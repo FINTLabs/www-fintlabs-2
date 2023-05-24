@@ -10,7 +10,7 @@ aux_links:
 
 heading_anchors: true
 
-logo: "/assets/images/logo.png"
+#logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 color_scheme: dark
