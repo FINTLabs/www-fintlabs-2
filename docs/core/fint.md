@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, `inline code snippet` adipisicing elit, sed do eiusm
 ```
 
 # Updating
-All content is in `markdown` files.
+All content is in `markdown` files. Jennifer Test
 
 ## Updating existing content
 To update existing content edit the `markdown` file with the content you need to update.
